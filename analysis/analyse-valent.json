@@ -1,0 +1,47 @@
+[
+    {
+        "topic": "IT-Dienstleistungen",
+        "description": "selbstständig, vollumfänglich um Kunden kümmern, verschiedene Branchen",
+        "sentiment": 0.7
+    },
+    {
+        "topic": "Kunde",
+        "description": "Gipsergeschäft, neue IT-Infrastruktur, Zahlung nicht eingegangen",
+        "sentiment": -0.8
+    },
+    {
+        "topic": "Rechtsanwalt",
+        "description": "rechtliche Aufforderung, formelles Schreiben, Bezahlung, rechtliche Schritte",
+        "sentiment": 0.6
+    },
+    {
+        "topic": "Klage",
+        "description": "Rechtsanwalt benötigt, Klageschrift, rechtlich abgesicherte Schritte, Ausgang des Verfahrens, Kosten, Risiken",
+        "sentiment": -0.3
+    },
+    {
+        "topic": "Suche nach einem Rechtsanwalt",
+        "description": "Empfehlungen, Online-Suche, Fachgebiete, Erfahrung, Beratung, geeignet",
+        "sentiment": 0.6
+    },
+    {
+        "topic": "Firmensitz",
+        "description": "Kunde in Frauenfeld, Klage einreichen, Gerichtsstand",
+        "sentiment": 0.1
+    },
+    {
+        "topic": "Friedensrichteramt",
+        "description": "Adresse, Zuständigkeit, Streitwert, Gerichtsurteile, Zivilgericht",
+        "sentiment": 0.1
+    },
+    {
+        "topic": "Zivilgericht",
+        "description": "Adresse, Klage einreichen, Anwalt, korrekt und vollständig, Prozessführung",
+        "sentiment": 0.5
+    },
+    {
+        "topic": "Darstellung des Anliegens",
+        "description": "klar und deutlich, Beschreibung, Beweismittel, Massnahmen, Forderung, Fragen beantworten",
+        "sentiment": 0.7
+    }
+]

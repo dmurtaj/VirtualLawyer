@@ -1,0 +1,47 @@
+[
+    {
+        "topic": "Virtual Lawyer",
+        "description": "Ich bin dein Virtual Lawyer und stehe dir gerne bei allen rechtlichen Fragen und Anliegen zur Verfügung.",
+        "sentiment": 1
+    },
+    {
+        "topic": "Online-Betrug",
+        "description": "Ich habe vor etwa einem Monat in einem Online Shop ein Kleid gekauft. Ich habe im Voraus bezahlt, habe die Ware aber nie erhalten.",
+        "sentiment": -1
+    },
+    {
+        "topic": "Beratung des virtuellen Anwalts",
+        "description": "Hier sind die Schritte, die du unternehmen kannst...",
+        "sentiment": 1
+    },
+    {
+        "topic": "Fehlende Informationen zum Verkäufer",
+        "description": "Der Online-Shop ist nicht mehr auffindbar und ich habe keine Adresse, Telefonnummer oder Mailadresse des Verkäufers.",
+        "sentiment": -1
+    },
+    {
+        "topic": "Empfohlene Maßnahmen bei fehlenden Verkäuferinformationen",
+        "description": "Melde den Vorfall bei der Polizei, wende dich an deine Kreditkartenfirma, dokumentiere alles, Verbraucherschutzorganisation kontaktieren.",
+        "sentiment": 0.5
+    },
+    {
+        "topic": "Verbraucherschutzorganisationen",
+        "description": "Verbraucherschutzorganisationen sind Organisationen, die sich für die Rechte und Interessen von Verbrauchern einsetzen.",
+        "sentiment": 1
+    },
+    {
+        "topic": "Entscheidung zur Kontaktaufnahme mit Verbraucherschutzorganisationen",
+        "description": "Ich glaube es macht Sinn, dass ich mich mal bei einer dieser Organisationen melde.",
+        "sentiment": 0.7
+    },
+    {
+        "topic": "Empfehlung der Verbraucherschutzorganisation",
+        "description": "Für dich in Zürich könnte die Stiftung für Konsumentenschutz K-Tipp eine gute Wahl sein.",
+        "sentiment": 1
+    },
+    {
+        "topic": "Zufriedenheit mit der Unterstützung",
+        "description": "Vielen lieben Dank, du hast mir weitergeholfen!",
+        "sentiment": 1
+    }
+]

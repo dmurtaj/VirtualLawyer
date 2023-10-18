@@ -1,0 +1,32 @@
+[
+    {
+        "topic": "Virtual Lawyer",
+        "description": "Rechtlichen Wissen, Behebung des Schadens, Gebäudeversicherung, Hausratversicherung",
+        "sentiment": 0.8
+    },
+    {
+        "topic": "Brandschaden",
+        "description": "Mietwohnung, Parketboden, Fahrlässigkeit, Reparatur, Verantwortung",
+        "sentiment": -0.4
+    },
+    {
+        "topic": "Vermieter",
+        "description": "Verantwortlich für Instandhaltungen, Gebäudeversicherung, Auswahl des Handwerkers, Mietzinsreduktion",
+        "sentiment": -0.2
+    },
+    {
+        "topic": "Hausverwaltung",
+        "description": "Kontakt, Nichtübernahme des Schadens, Auskunft über Versicherung",
+        "sentiment": -0.3
+    },
+    {
+        "topic": "Hausratversicherung",
+        "description": "Mögliche Deckung des Schadens, Prüfung der Vertragsbedingungen, Meldung des Schadens",
+        "sentiment": 0.3
+    },
+    {
+        "topic": "Beratung",
+        "description": "Hilfe bei Anliegen, Prüfung von Versicherungs- und Mietvertragsentscheidungen, Bereitschaft zur Kontaktaufnahme",
+        "sentiment": 1
+    }
+]

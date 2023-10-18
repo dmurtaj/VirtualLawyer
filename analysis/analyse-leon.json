@@ -1,0 +1,57 @@
+[
+    {
+        "topic": "Begrüßung des virtuellen Anwalts",
+        "description": "Begrüßung und Angebot zur Hilfeleistung",
+        "sentiment": 1
+    },
+    {
+        "topic": "Kündigungsproblem",
+        "description": "Bedenken bezüglich der Kündigung und Lohnzahlung während der Krankheit",
+        "sentiment": -0.8
+    },
+    {
+        "topic": "Rechtsberatung",
+        "description": "Beratung zur Kündigung während der Krankheit",
+        "sentiment": 0.7
+    },
+    {
+        "topic": "Vertragsdetails",
+        "description": "Weitere Klärung der Vertragsdetails und Auswirkungen",
+        "sentiment": 0.6
+    },
+    {
+        "topic": "Finanzielle Notlage",
+        "description": "Ausdruck der finanziellen Abhängigkeit von Gehaltszahlungen",
+        "sentiment": -0.9
+    },
+    {
+        "topic": "Ratschläge zum Umgang mit dem Arbeitgeber",
+        "description": "Vorschläge zur Kommunikation mit dem Arbeitgeber",
+        "sentiment": 0.8
+    },
+    {
+        "topic": "Notfallplan",
+        "description": "Beratung zu möglichen Maßnahmen bei fehlender Flexibilität des Arbeitgebers",
+        "sentiment": 0.8
+    },
+    {
+        "topic": "Pro-Bono-Dienstleistungen",
+        "description": "Erklärung der Pro-Bono-Rechtsdienstleistungen",
+        "sentiment": 1
+    },
+    {
+        "topic": "Pro-Bono-Dienstleistungen in Kanton Zürich",
+        "description": "Informationen, wo man Pro-Bono-Dienstleistungen in Kanton Zürich findet",
+        "sentiment": 1
+    },
+    {
+        "topic": "Kundenzufriedenheit",
+        "description": "Positives Feedback des Kunden",
+        "sentiment": 1
+    },
+    {
+        "topic": "Weitere Hilfe anbieten",
+        "description": "Anbieten weiterer Hilfe und besten Wünsche für das Anliegen des Kunden",
+        "sentiment": 1
+    }
+]
